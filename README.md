@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 
 
 <!--
 **naveenspace7/naveenspace7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Don't miss my blog that I update on a weekly basis.
+
+Recently, I had started creating Docker images for some repetitive tasks that would take long to install and document. Find the images at my Docker Hub repository under name **naveenspace7**.
