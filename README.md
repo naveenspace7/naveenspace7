@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Don't miss my blog that I update on a weekly basis.
 
-Recently, I had started creating Docker images for some repetitive tasks that would take long to install and document. Find the images at my Docker Hub repository under name **naveenspace7**.
+Recently, I had started creating Docker images for some repetitive tasks that would take long to install and document. Find the images at [my Docker Hub]()https://hub.docker.com/u/naveenspace7.
